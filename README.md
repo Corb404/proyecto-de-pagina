@@ -198,8 +198,7 @@ La variable `GRUPO_EDAD1` se agrupó en 11 categorías del ciclo de vida, de acu
 
 ## 10. Integrantes
 
-- [COMPLETAR: nombre completo]
-- [COMPLETAR: nombre completo]
+- Andres Coronado
 
 ## Fuentes
 
